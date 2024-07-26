@@ -49,4 +49,5 @@ public class Main {
 
         System.out.println("Total weight of carrots carried: " + totalCarrotsCarried + " kg");
     }
+
 }
